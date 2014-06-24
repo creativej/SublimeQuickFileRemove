@@ -1,4 +1,4 @@
-SublimeQuickFileRemove
+Sublime plugin: QuickFileRemove
 ======================
 
-A quick way to remove the current openned file
+A sublime plugin for removing the current opened file quickly
