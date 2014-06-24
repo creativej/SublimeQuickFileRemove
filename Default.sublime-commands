@@ -1,0 +1,7 @@
+[
+    {
+        "command": "quick_remove_file",
+        "args": {},
+        "caption": "Quick remove file"
+    }
+]
